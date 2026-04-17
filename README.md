@@ -1,4 +1,4 @@
-<h1 align="center">Thihara Kumarasinghe</h1>
+<h1 align="center">Hi 👋, I'm Thihara Kumarasinghe</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=0e75b6&center=true&vCenter=true&width=620&lines=B.Eng.+Electrical+%26+Information+Engineering;Full-Stack+Developer;DevOps+%26+Cloud+Engineer;AI+%2F+ML+Engineer" alt="Typing SVG" />
 </p>
