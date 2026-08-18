@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Thihara Kumarasinghe
 
 ### Electrical & Information Engineer · Project Engineer · Full-Stack Developer
+
+</div>
 
 
 <div align="center">
