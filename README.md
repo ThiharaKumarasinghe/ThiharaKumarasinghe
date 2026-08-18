@@ -36,57 +36,39 @@
 
 ---
 
-## 🎯 What I Focus On
-
-| Full-Stack Development | Cloud & DevOps | AI-Powered Systems | Cross-Platform Mobile |
-| :---: | :---: | :---: | :---: |
-| Responsive web applications | Reliable delivery pipelines | Practical ML solutions | Flutter applications |
-| Clean APIs and integrations | Containers and infrastructure | Intelligent automation | Consistent user experiences |
-| Maintainable architecture | Scalable deployments | Data-driven insights | Android and iOS delivery |
-
----
-
 ## 🛠️ Technology Stack
-
-### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,html,css,dart&perline=10" alt="Programming languages" />
-</p>
 
-### Web & Mobile Development
+  <br/><br/>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap,graphql,firebase&perline=9" alt="Web and mobile technologies" />
-</p>
 
-### Databases
+  <br/><br/>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4" alt="Databases" />
-</p>
 
-### Cloud & DevOps
+  <br/><br/>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,nginx,linux,git,github&perline=10" alt="Cloud and DevOps technologies" />
-</p>
 
-### AI, Machine Learning & Data
+  <br/><br/>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv&perline=4" alt="AI and machine learning technologies" />
+
   <br/>
+
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
 
-### Tools & Collaboration
+  <br/><br/>
 
-<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,unity,postman&perline=4" alt="Development tools" />
+
   <br/>
+
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </p>
@@ -105,8 +87,6 @@
 </a>
 
 </div>
-
-> GitHub displays the native contribution calendar directly below the profile README. This keeps activity information accurate without depending on unreliable third-party statistics cards.
 
 ---
 
