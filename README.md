@@ -1,73 +1,119 @@
-<h1 align="center">Hi 👋, I'm Thihara Kumarasinghe</h1>
+<div align="center">
+
+# Hi 👋, I'm Thihara Kumarasinghe
+
+### Electrical & Information Engineer · Project Engineer · Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+mobile+solutions;Creating+cloud-ready+and+scalable+systems;Exploring+AI%2FML+for+real-world+problems;Turning+complexity+into+simple+experiences" alt="Typing introduction" />
+
+<br/>
+
+<a href="mailto:thihara.kumarasinghe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/thihara-kumarasinghe/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ThiharaKumarasinghe?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ThiharaKumarasinghe&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- ⚡ Project Engineer building practical digital platforms, mobile applications, and workflow solutions.
+- 💻 Experienced in full-stack development across modern frontend, backend, database, and cloud technologies.
+- 🤖 Interested in applied AI/ML, intelligent automation, and data-driven systems.
+- 🚀 Focused on creating secure, scalable, and user-friendly products that solve real-world problems.
+- 💬 Happy to connect and collaborate on software, cloud, DevOps, and AI projects.
+
+---
+
+## 🎯 What I Focus On
+
+| Full-Stack Development | Cloud & DevOps | AI-Powered Systems | Cross-Platform Mobile |
+| :---: | :---: | :---: | :---: |
+| Responsive web applications | Reliable delivery pipelines | Practical ML solutions | Flutter applications |
+| Clean APIs and integrations | Containers and infrastructure | Intelligent automation | Consistent user experiences |
+| Maintainable architecture | Scalable deployments | Data-driven insights | Android and iOS delivery |
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=0e75b6&center=true&vCenter=true&width=620&lines=B.Eng.+Electrical+%26+Information+Engineering;Full-Stack+Developer;DevOps+%26+Cloud+Engineer;AI+%2F+ML+Engineer" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,html,css,dart&perline=10" alt="Programming languages" />
 </p>
+
+### Web & Mobile Development
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiharakumarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="thiharakumarasinghe" />
-  &nbsp;
-  <a href="mailto:thihara.kumarasinghe@gmail.com"><img src="https://img.shields.io/badge/Email-thihara.kumarasinghe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/thihara-kumarasinghe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Thihara%20Kumarasinghe-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap,graphql,firebase&perline=9" alt="Web and mobile technologies" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4" alt="Databases" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,nginx,linux,git,github&perline=10" alt="Cloud and DevOps technologies" />
+</p>
+
+### AI, Machine Learning & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv&perline=4" alt="AI and machine learning technologies" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Tools & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,unity,postman&perline=4" alt="Development tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📈 Explore My Work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,html,css,dart" height="40"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap,graphql,firebase" height="40"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" height="40"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,nginx,linux,git,github" height="40"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" height="40"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,unity,postman" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/ThiharaKumarasinghe?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+<a href="https://github.com/ThiharaKumarasinghe?tab=stars">
+  <img src="https://img.shields.io/badge/Explore-Starred%20Projects-F5A623?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred projects" />
+</a>
+
+</div>
+
+> GitHub displays the native contribution calendar directly below the profile README. This keeps activity information accurate without depending on unreliable third-party statistics cards.
 
 ---
 
-### 📊 Activity
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thiharakumarasinghe&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=thiharakumarasinghe&theme=minimal&hide_border=true&area=true"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiharakumarasinghe&theme=minimal&hide_border=true&area=true" width="100%"/>
-</picture>
+### Let's build something meaningful together.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thiharakumarasinghe&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=thiharakumarasinghe&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thiharakumarasinghe&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiharakumarasinghe&layout=compact&theme=github_dark&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thiharakumarasinghe&layout=compact&theme=default&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiharakumarasinghe&layout=compact&theme=default&hide_border=true" height="150"/>
-  </picture>
-</p>
+*“Turning complex problems into simple, scalable solutions.”*
 
----
-
-### 📌 Focus Areas
-
-`Full-Stack Development` &nbsp; `Cloud & DevOps` &nbsp; `AI-Powered Systems` &nbsp; `Cross-Platform Mobile`
-
----
-
-> *"Turning complex problems into simple, scalable solutions."*
+</div>
