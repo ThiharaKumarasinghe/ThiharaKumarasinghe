@@ -1,6 +1,7 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38BDF8&height=200&section=header&text=Thihara%20Kumarasinghe&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20%26%20Information%20Engineer%20%7C%20Project%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="Thihara Kumarasinghe" />
-</p>
+# Hi 👋, I'm Thihara Kumarasinghe
+
+### Electrical & Information Engineer · Project Engineer · Full-Stack Developer
+
 
 <div align="center">
 
