@@ -1,26 +1,26 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38BDF8&height=200&section=header&text=Thihara%20Kumarasinghe&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20%26%20Information%20Engineer%20%7C%20Project%20Engineer%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="Thihara Kumarasinghe" />
+</p>
+
 <div align="center">
 
-# Hi 👋, I'm Thihara Kumarasinghe
-
-### Electrical & Information Engineer · Project Engineer · Full-Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+mobile+solutions;Creating+cloud-ready+and+scalable+systems;Exploring+AI%2FML+for+real-world+problems;Turning+complexity+into+simple+experiences" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+reliable+web+and+mobile+solutions;Creating+scalable+cloud-ready+systems;Applying+AI%2FML+to+real-world+problems" alt="Professional focus" />
 
 <br/>
 
 <a href="mailto:thihara.kumarasinghe@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/thihara-kumarasinghe/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ThiharaKumarasinghe?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ThiharaKumarasinghe&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ThiharaKumarasinghe&label=Profile%20Views&color=0E75B6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -28,72 +28,47 @@
 
 ## 👨‍💻 About Me
 
-- ⚡ Project Engineer building practical digital platforms, mobile applications, and workflow solutions.
-- 💻 Experienced in full-stack development across modern frontend, backend, database, and cloud technologies.
-- 🤖 Interested in applied AI/ML, intelligent automation, and data-driven systems.
-- 🚀 Focused on creating secure, scalable, and user-friendly products that solve real-world problems.
-- 💬 Happy to connect and collaborate on software, cloud, DevOps, and AI projects.
+I am an **Electrical & Information Engineer** and **Project Engineer** focused on developing reliable digital products. I build secure and maintainable web and mobile applications, work across the full software development lifecycle, and explore cloud, DevOps, and AI/ML technologies to transform operational challenges into practical solutions.
 
 ---
 
 ## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,html,css,dart&perline=10" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,html,css,dart,react,nextjs,nodejs,express,flutter,tailwind,bootstrap,graphql,firebase,mongodb,mysql,postgres,redis,aws,azure,docker,kubernetes,terraform,ansible,nginx,linux,git,github,tensorflow,pytorch,opencv,vscode,figma,unity,postman&perline=10&theme=dark" alt="Technology stack" />
+</p>
 
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,tailwind,bootstrap,graphql,firebase&perline=9" alt="Web and mobile technologies" />
-
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4" alt="Databases" />
-
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,nginx,linux,git,github&perline=10" alt="Cloud and DevOps technologies" />
-
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv&perline=4" alt="AI and machine learning technologies" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=vscode,figma,unity,postman&perline=4" alt="Development tools" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
 
-## 📈 Explore My Work
+## 🚀 Explore My Work
 
-<div align="center">
-
-<a href="https://github.com/ThiharaKumarasinghe?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-<a href="https://github.com/ThiharaKumarasinghe?tab=stars">
-  <img src="https://img.shields.io/badge/Explore-Starred%20Projects-F5A623?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred projects" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/ThiharaKumarasinghe?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+  <a href="https://www.linkedin.com/in/thihara-kumarasinghe/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### Let's build something meaningful together.
+### Open to meaningful ideas, technical collaboration, and impactful projects.
 
 *“Turning complex problems into simple, scalable solutions.”*
 
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0E75B6&height=85&section=footer" alt="Footer" />
+</p>
